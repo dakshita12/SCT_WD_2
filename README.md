@@ -13,7 +13,7 @@ The goal of this task was to build a dynamic calculator application while streng
 - Error Handling  
 - Custom Event Listeners  
 
-## ⚡ Key Features
+## ⚡ Key Features 
 
 - Performs all basic arithmetic operations (Addition, Subtraction, Multiplication, Division)  
 - Clear (`AC`) – Clears the entire input  
